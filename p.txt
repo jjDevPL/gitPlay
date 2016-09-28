@@ -4,3 +4,4 @@ commit3-master
 commit1-bracha1
 commit2-branch1
 commit3-branch1
+commit4-branch1
