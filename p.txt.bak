@@ -1,9 +1,12 @@
 commit1-master
 commit2-master
 commit3-master
+<<<<<<< HEAD
 commit4-master
 commit5-master
+=======
 commit1-bracha1
 commit2-branch1
 commit3-branch1
 commit4-branch1
+>>>>>>> branch1
