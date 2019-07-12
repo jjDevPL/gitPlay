@@ -5,3 +5,5 @@ commit4-master
 commit5-master
 -----------------
 commit1
+
+toRevert1
