@@ -8,4 +8,3 @@ commit1
 
 toRevert1
 toRevert2
-toRevert3
